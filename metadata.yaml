@@ -1,0 +1,35 @@
+_repo: The-Winning-of-the-Moon_61242
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Burns
+    gutenberg_agent_id: '48890'
+    url: http://www.gutenberg.org/2009/agents/48890
+creator:
+  author:
+    agent_name: Neville, Kris
+    alias: Neville, Kris Ottman
+    birthdate: 1925
+    deathdate: 1980
+    gutenberg_agent_id: '25913'
+    url: http://www.gutenberg.org/2009/agents/25913
+    wikipedia: https://en.wikipedia.org/wiki/Kris_Ottman_Neville
+description: ''
+gutenberg_issued: '2020-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Survival -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Cold War -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Moon -- Fiction'
+- GITenberg
+title: The Winning of the Moon
+url: http://www.gutenberg.org/ebooks/61242
