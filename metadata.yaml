@@ -1,10 +1,13 @@
 _repo: The-Winning-of-the-Moon_61242
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Burns
     gutenberg_agent_id: '48890'
     url: http://www.gutenberg.org/2009/agents/48890
+covers:
+- cover_type: archival
+  image_path: 61242-h/images/cover.jpg
 creator:
   author:
     agent_name: Neville, Kris
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25913
     wikipedia: https://en.wikipedia.org/wiki/Kris_Ottman_Neville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61242#The-Winning-of-the-Moon
 gutenberg_issued: '2020-01-25'
 gutenberg_type: Text
 identifiers:
